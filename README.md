@@ -30,7 +30,7 @@ int main()
     return 0;
 }
 ```
-![1.jpg](348s.jpg)
+![1.jpg](1.png)
 ### 2) To print College address.
 ```C
 #include<stdio.h>
