@@ -25,7 +25,7 @@ int main()
 int main()
 {
     puts("~~~~~~~~~~~~~~~~~~~~~~~~~");
-    puts("My name is Konark Lohat");
+    puts("My name is MOKSH SOOD");
     puts("~~~~~~~~~~~~~~~~~~~~~~~~~");
     return 0;
 }
