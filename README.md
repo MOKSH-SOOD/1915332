@@ -40,7 +40,7 @@ int main()
     return 0;
 }
 ```
-![2.jpg]()
+![2.jpg](02.jpg)
 ### 3) Program to add two integers.
 ```C
 #include<stdio.h>
@@ -74,7 +74,7 @@ int main()
     return 0;
 }
 ```
-![4.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/04.JPG)
+![4.jpg](04.jpg)
 ### 5) Program to swap two variables without 3rd variable.
 ```C
 #include<stdio.h>
@@ -93,7 +93,7 @@ int main()
     return 0;
 }
 ```
-![5.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/05.JPG)
+![5.jpg](05.jpg)
 ### 6) Program to check even odd number.
 ```C
 #include<stdio.h>
@@ -109,7 +109,7 @@ int main()
     return 0;
 }
 ```
-![6.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/06.JPG)
+![6.png](06.jpg)
 ### 7) Finding greteast of two numbers.
 ```C
 #include<stdio.h>
@@ -127,7 +127,7 @@ int main()
     return 0;
 }
 ```
-![7.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/07.JPG)
+![7.png](06.jpg)
 ### 8) Find greatest of three number .
 ```C
 #include<stdio.h>
@@ -159,7 +159,7 @@ int main()
     
 }
 ```
-![8.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/08.JPG)
+![8.png](08.jpg)
 ### 9) Program to assign grade to student according to percentage.
 ```C
 #include<stdio.h>
@@ -201,7 +201,7 @@ int main()
     return 0;
 }
 ```
-![9.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/09.JPG)
+![9.png](09.jpg)
 ### 10) Program to print roots of quadratic equation.
 ```C
 #include<stdio.h>
