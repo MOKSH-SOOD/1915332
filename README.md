@@ -40,7 +40,7 @@ int main()
     return 0;
 }
 ```
-![2.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/02.JPG)
+![2.jpg]()
 ### 3) Program to add two integers.
 ```C
 #include<stdio.h>
@@ -56,7 +56,7 @@ int main()
     return 0;
 }
 ```
-![3.jpg](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/03.JPG)
+![3.jpg](03.jpg)
 ### 4) Program to find quotient and remainder.
 ```C
 #include<stdio.h>
