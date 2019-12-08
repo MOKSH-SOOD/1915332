@@ -876,7 +876,7 @@ int main()
 }
 ```
 
-![30_2.png](31b.jpg)
+![30_2.png](30b.jpg)
 
 ### 31) Program to implement bubble sort.
 ```C
