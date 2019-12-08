@@ -837,7 +837,7 @@ int main()
     return 0;
 }
 ```
-![30_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/30a.JPG)
+![30_1.png](30a.jpg)
 ### Binary Search Program
 ```C
 #include<stdio.h>
@@ -876,7 +876,7 @@ int main()
 }
 ```
 
-![30_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/30b.JPG)
+![30_2.png](31b.jpg)
 
 ### 31) Program to implement bubble sort.
 ```C
@@ -915,7 +915,7 @@ int main()
   return 0;
 }
 ```
-![31.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/31.JPG)
+![31.png](31.jpg)
 ### 32) Program to store information of 10 students using array of structures.
 ```C
 #include<stdio.h>
@@ -958,8 +958,8 @@ int main()
     return 0;
 }
 ```
-![32_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/32.JPG)
-![32_2.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/32_cont.JPG)
+![32_1.png](32.jpg)
+![32_2.png](32_cont.jpg)
 ### 33) Programs to compute the transpose of a matrix.
 ```C
 #include<stdio.h>
@@ -984,7 +984,7 @@ int main()
     return 0;
 }
 ```
-![33.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/33.JPG)
+![33.png](33.jpg)
 ### 34) Program to print the address of variable using pointer.
 ```C
 #include <stdio.h>
@@ -1007,7 +1007,7 @@ int main() {
   return 0;
 }
 ```
-![34.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/34.JPG)
+![34.png](34.jpg)
 ### 35) Program to access array using pointer.
 ```C
 int main()
@@ -1022,4 +1022,4 @@ int main()
    return 0;
 }
 ```
-![35.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/35.JPG)
+![35.png](35.jpg)
