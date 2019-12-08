@@ -222,7 +222,7 @@ int main()
     return 0;
 }
 ```
-![10.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/10.JPG)
+![10.png](10.jpg)
 ### 11) Program to check year is leap or not.
 ```C
 #include<stdio.h>
@@ -238,7 +238,7 @@ int main()
     return 0;
 }
 ```
-![11.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/11.JPG)
+![11.png](11.jpg)
 ### 12) Program to print table of 5.
 ```C
 #include<stdio.h>
@@ -254,7 +254,7 @@ int main()
     return 0;
 }
 ```
-![12.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/12.JPG)
+![12.png](12.jpg)
 ### 13) To make simple calculator using switch case.
 ```C
 #include<stdio.h>
@@ -287,7 +287,7 @@ int main()
     return 0;
 }
 ```
-![13.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/13.JPG)
+![13.png](13.jpg)
 ### 14) To calculate reverse of a number.
 ```C
 #include<stdio.h>
@@ -306,7 +306,7 @@ int main()
     return 0;
 }
 ```
-![14.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/14.JPG)
+![14.png](14.jpg)
 ### 15) To check whether number is palindrome or not.
 ```C
  #include<stdio.h>
@@ -329,7 +329,7 @@ int main()
     return 0;
 }
 ```
-![15.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/15.JPG)
+![15.png](15.jpg)
 ### 16) To check whether a number is prime or not.
 ```C
 #include<stdio.h>
@@ -356,7 +356,7 @@ int main()
     }
 }
 ```
-![16.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/16.JPG)
+![16.png](16.jpg)
 ### 17) Program to print prime numbers from 1 to 100.
 ```C
 #include <stdio.h>
@@ -385,7 +385,7 @@ int main()
   return 0;
 } 
  ``` 
- ![17.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/17.JPG)
+ ![17.png](17.jpg)
 ### 18) Program to check whether a number is armstrong or not.
 ```C
 #include<stdio.h>
@@ -409,7 +409,7 @@ int main()
 }
 
 ```
-![18.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/18.JPG)
+![18.png](18.jpg)
 ### 19) Print the following patterns:
 ### i) Pattern 1. 
 ```C
@@ -428,7 +428,7 @@ int main()
     return 0;
 }
 ```
-![19_1.png](https://github.com/LastComrade/PPS_Programs/blob/master/PPS%20Programs%20MD%20File/19a.JPG)
+![19_1.png](19a.JPG)
 
 ### ii) Pattern 2.
 ```C
